@@ -1,36 +1,22 @@
-### Hi there 👋
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
-    <img src="assets/greetings.gif" align="center" height="" width="500" />
+    <img src="https://neerlandistiek.nl/wp-content/uploads/2020/09/448781613_840504c11b_c.jpg" align="center" height="" width="300" />
 </div>
   
 
-### <div align="center" width="200">I'm Miguel! I'm currently a student at the University of Southampton with a passion for Artificial Intelligence and Data Science!🇷</div>
-
-
+### <div align="center" width="200">I'm Miguel!</div>
+<div align="center" width="200"> I'm currently a student at the University of Southampton with a passion for Artificial Intelligence and Data Science.🇷</div>
+&nbsp;
+<div align="center" width="200"> - 🧠 Current learning Areas: Computer Vision & Natural Language Processing </div>
+<div align="center" width="200"> - 💬 Pronouns: He/Him </div>
+<div align="center" width="200"> - ⭐ Interests: Gaming 🎮 - Reading 📚 - Archery 🏹 </div>
+&nbsp;
 <p align="center">
-    <a href="mailto:contact@pena.m.miguel@gmail.com">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgmail-logo%2F&psig=AOvVaw0vIXpvvPS0054B6FaLeUZf&ust=1651971741024000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJC0oreYzPcCFQAAAAAdAAAAABAD" />
+    <a href="mailto:contact@pena.m.miguel@gmail.com"> Contact me via email ->
+        <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="30"/>
     </a>
 </p>
   
 <br>
-
-- 🧠 Current learning Areas: Computer Vision & Natural Language Processing
-- 💬 Pronouns: He/Him
-- ⭐ Interests: Gaming 🎮 - Reading 📚 - Archery 🏹
-
 
 ## 📈 My Stats
 
