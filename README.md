@@ -2,6 +2,8 @@
     <img src="https://neerlandistiek.nl/wp-content/uploads/2020/09/448781613_840504c11b_c.jpg" align="center" height="" width="300" />
 </div>
 
+### <div align="center" width="200">I'm Miguel!</div>
+
 <div align="center" width="200"> I'm currently a student at the University of Southampton with a passion for Artificial Intelligence and Data Science.🇷</div>
 &nbsp;
 <div align="center" width="200"> ⌨️ Favourite programming language: Python 🐍</div>
