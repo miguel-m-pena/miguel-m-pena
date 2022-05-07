@@ -1,9 +1,7 @@
 <div align="center">
     <img src="/header.png" align="center" height="" width="600" />
 </div>
-  
-
-### <div align="center" width="200">I'm Miguel!</div>
+ 
 <div align="center" width="200"> I'm currently a student at the University of Southampton with a passion for Artificial Intelligence and Data Science.🇷</div>
 &nbsp;
 <div align="center" width="200"> ⌨️ Favourite programming language: Python 🐍</div>
