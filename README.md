@@ -4,7 +4,7 @@
 
 ### <div align="center" width="200">I'm Miguel!</div>
 
-<div align="center" width="200"> I'm currently a student at the University of Southampton with a passion for Artificial Intelligence and Data Science.🇷</div>
+<div align="center" width="200"> I'm currently a student at the University of Southampton with a passion for Artificial Intelligence and Data Science </div>
 &nbsp;
 <div align="center" width="200"> ⌨️ Favourite programming language: Python 🐍</div>
 <div align="center" width="200"> 🧠 Current Learning Areas: Computer Vision 👀 & Natural Language Processing 💬</div>
